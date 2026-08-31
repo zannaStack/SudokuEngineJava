@@ -1,0 +1,23 @@
+# Build output
+bin/
+*.class
+
+# Native libraries
+lib/*.dll
+lib/jfxwebkit.dll
+
+# Database locale & dati di gioco
+sudoku.db
+sudoku.db-journal
+
+# IDE & Editor
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
