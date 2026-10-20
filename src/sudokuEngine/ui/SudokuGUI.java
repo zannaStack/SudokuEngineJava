@@ -29,6 +29,7 @@ import java.util.List;
  * Include gestione eventi da tastiera/mouse, animazioni del timer,
  * evidenziazione interattiva delle sottomatrici 3x3 e integrazione diretta con il database SQL.
  */
+// Layout responsive con ridimensionamento finestra
 public class SudokuGUI extends Application {
 
     private SudokuController gameService;
